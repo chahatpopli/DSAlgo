@@ -1,1 +1,1 @@
-# DSAlgo
+# Data Structure and Algorithms
